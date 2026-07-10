@@ -30,6 +30,8 @@ Why settle for a standard link aggregator when you can have a digital business c
 
 <br/>
 
+---
+
 ## 💎 Features That Pop
 
 - 🌌 **Living Background**: A continuously flowing, animated gradient mesh that breathes life into the page.
@@ -39,6 +41,8 @@ Why settle for a standard link aggregator when you can have a digital business c
 - 🌙 **Premium Dark Mode**: Easy on the eyes, heavy on the style.
 
 <br/>
+
+---
 
 ## 🚀 Get It Running
 
@@ -55,6 +59,8 @@ It's entirely static and pure frontend. No weird build steps, no complicated pac
 
 <br/>
 
+---
+
 ## 📂 Project Structure
 
 ```text
@@ -68,6 +74,8 @@ It's entirely static and pure frontend. No weird build steps, no complicated pac
 ```
 
 <br/>
+
+---
 
 ## 🤝 Connect
 
