@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="preview.jpg" alt="Marwan Card" width="100%" />
+
+  <br />
+
   # 🪪 Marwan Card
   
   **A sleek, futuristic, and premium glassmorphic Linktree alternative.**
