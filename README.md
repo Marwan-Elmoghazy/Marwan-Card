@@ -6,9 +6,9 @@
 
   # 🪪 Marwan Card
   
-  **A sleek, futuristic, and premium glassmorphic Linktree alternative.**
+  **A sleek, futuristic, and premium glassmorphic Vibe-Coded Linktree alternative.**
   <br />
-  Designed & Built for **[Marwan Elmoghazy](https://github.com/Marwan-Official)**.
+  Designed & Built for **[Marwan Elmoghazy](https://github.com/Marwan-Elmoghazy)**.
 
   ---
 
@@ -50,7 +50,7 @@ It's entirely static and pure frontend. No weird build steps, no complicated pac
 
 1. **Clone the magic:**
    ```bash
-   git clone https://github.com/Marwan-Official/marwan-card.git
+   git clone https://github.com/Marwan-Elmoghazy/marwan-card.git
    ```
 2. **Open it up:**
    Just double click `index.html` to open it in your favorite browser.
@@ -80,11 +80,11 @@ It's entirely static and pure frontend. No weird build steps, no complicated pac
 ## 🤝 Connect
 
 Find Marwan practically anywhere on the web:
-- 💻 **GitHub:** [@Marwan-Official](https://github.com/Marwan-Official)
+- 💻 **GitHub:** [@Marwan-Elmoghazy](https://github.com/Marwan-Elmoghazy)
 - 💼 **LinkedIn:** [Marwan Elmoghazy](https://www.linkedin.com/in/marwan-elmoghazy-908626355)
 - 📸 **Instagram:** [@marwan.elmoghazy](https://instagram.com/marwan.elmoghazy)
 - 📺 **YouTube:** [@marwanelmoghazy](https://youtube.com/@marwanelmoghazy)
-
+- 🔗 **Facebook:** [@marwan.elmoghazyy](https://www.facebook.com/marwan.elmoghazyy)
 <br/>
 
 ---
@@ -92,8 +92,8 @@ Find Marwan practically anywhere on the web:
 <div align="center">
   <h2>Designed & Built with ❤️ by <b>Marwan Elmoghazy</b></h2>
   <p>
-    <a href="https://github.com/Marwan-Official">
-      <img src="https://img.shields.io/github/followers/Marwan-Official?label=Follow%20@Marwan-Official&style=social" alt="GitHub followers" />
+    <a href="https://github.com/Marwan-Elmoghazy">
+      <img src="https://img.shields.io/github/followers/Marwan-Elmoghazy?label=Follow%20@Marwan-Elmoghazy&style=social" alt="GitHub followers" />
     </a>
   </p>
   <br/>
